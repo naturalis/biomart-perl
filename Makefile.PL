@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
  
 WriteMakefile(
     NAME         => 'biomart-perl',
-    AUTHOR       => q{Rutger Vos <rutger.vos@naturalis.nl},
+    AUTHOR       => q{EBI BioMart Dev Team <mart-dev@ebi.ac.uk>},
 #    VERSION_FROM => 'lib/BioMart/Root.pm',
     ABSTRACT     => 'Enables interaction with BioMart services',
     ( $ExtUtils::MakeMaker::VERSION >= 6.3002
